@@ -49,7 +49,7 @@ And I believe, that my ability to learn and to gain new skills will allow me to 
     * Programming in Python, Bioinformatics Institute ([Stepik.org](stepik.org)) - completed
     * Web Development for Beginners: HTML and CSS ([Stepik.org](stepik.org))  - completed
     * Basics of HTML and CSS ([Stepik.org](stepik.org))  - completed
-    * JavaScript Manual on [learnjavascript.ru(learnjavascript.ru)] - in progress
+    * JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) - in progress
     * RS Schools Course «JavaScript/Front-end. Stage 0» - in progress
 
 ---
