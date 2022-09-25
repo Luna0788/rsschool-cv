@@ -51,7 +51,8 @@ And I believe, that my ability to learn and to gain new skills will allow me to 
     * Basics of HTML and CSS ([Stepik.org](stepik.org))  - completed
     * JetBrains Academy, Frontend Developer track - in progress ([My profile on JetBrains Academy](https://hyperskill.org/profile/3285781))
     * JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) - in progress
-    * RS Schools Course «JavaScript/Front-end. Stage 0» - in progress
+    * RS Schools Course «JavaScript/Front-end. Stage 0» - completed
+    * RS Schools Course «JavaScript/Front-end. Stage 1» - in progress
 
 ---
 ## Languages:
